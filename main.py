@@ -1,6 +1,5 @@
 from re import findall
 from time import sleep
-from typing import Tuple, Any
 
 from requests import get
 
